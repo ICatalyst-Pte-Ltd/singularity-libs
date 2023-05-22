@@ -1,0 +1,1 @@
+{"version":3,"file":"auth_provider.js","sourceRoot":"","sources":["../../../../../../libs/singularity-libs/src/models/prisma/auth_provider.ts"],"names":[],"mappings":"AAGA,MAAM,OAAO,YAAY;IAAzB;QAWE,SAAI,GAAW,EAAE,CAAC;QAElB,aAAQ,GAAW,EAAE,CAAC;QAMtB,cAAS,GAAW,SAAS,CAAC;QAI9B,eAAU,GAAW,SAAS,CAAC;IAOjC,CAAC;CAAA"}
